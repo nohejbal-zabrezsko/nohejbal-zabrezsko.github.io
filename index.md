@@ -1,4 +1,38 @@
 # Turnaje #
+---
+
+### Turnaj Krchleby ###
+
+Datum
+: 6. 7. 2019
+
+---
+
+### Turnaj legend II ###
+
+Datum
+: 13. 7. 2019
+
+---
+
+### GP SPORTPROGRES ###
+
+Datum
+: 3. 8. 2019
+
+---
+
+### Švubův memoriál Hněvkov ###
+
+Datum
+: 10. 8. 2019
+
+---
+
+### Memoriál Petra Fabiána XI ###
+
+Datum
+: 7. 9. 2019
 
 ---
 
