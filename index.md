@@ -35,6 +35,15 @@ Místo
 Kontakt
 : 602 713 891
 
+Prezence
+: 8:00 — 8:45
+
+Začátek
+: 9:00
+
+Startovné
+: 100 na osobu
+
 ---
 
 ### GP SPORTPROGRES ###
