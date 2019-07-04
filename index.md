@@ -53,6 +53,9 @@ Startovné
 Datum
 : 3\. 8\. 2019
 
+Pořádá
+: Nohejbalový klub Zábřeh
+
 Místo
 : Městský stadion Zábřeh
 
@@ -116,7 +119,7 @@ Začátek
 Startovné
 : 300 Kč na tým 
 
-Prezentace
+Prezence
 : 8:00—8:45 
 
 Kontakt
@@ -143,7 +146,7 @@ Začátek
 Startovné
 : 450 Kč na tým 
 
-Prezentace
+Prezence
 : 8:00—8:45 
 
 Kontakt
