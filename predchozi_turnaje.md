@@ -6,7 +6,7 @@
 - nohejbalový turnaj trojic
 - pouze pro hráče věkem 50+ 
 - Občerstvení zajištěno 
-- [Plakát Turnaj legend](\./Turnaj legend\.pdf)
+- [Plakát Turnaj legend](./Turnaj legend.pdf)
 
 Pořádá
 : Nohejbalový klub Zábřeh
