@@ -94,5 +94,4 @@ Kontakt
 
 ---
 
-## Dřívější turnaje
-/predchozi_turnaje/
+## [Dřívější turnaje](predchozi_turnaje.md)
