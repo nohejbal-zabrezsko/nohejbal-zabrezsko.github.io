@@ -30,7 +30,7 @@ Pořádá
 : Nohejbalový klub Zábřeh
 
 Místo
-: Městský stadion Zábřeh
+: Městský stadion Zábřeh — Přesunuto do Postřelmova do haly
 
 Kontakt
 : 602 713 891
