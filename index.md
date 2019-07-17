@@ -76,6 +76,30 @@ Místo
 
 ---
 
+
+### 2.ročník nohejbalového turnaje trojic pro neregistrované ###
+- nohejbalový turnaj trojic
+
+Datum
+: 10\. 8\. 2019
+
+Místo
+: Olomouc (Hodolany)
+
+Prezentace
+: 8-8:30, 8:45 nástup, pravidla, rozlosování, 
+
+Začátek
+: 9:00 
+
+K dispozici
+: 3 antukové hřiště, šatny, sprchy, občerstvení se zahrádkou, grilované dobroty.. 
+
+Přihlášky
+: buď  SMS, nebo telefonicky 774 378 378
+
+---
+
 ### Memoriál Petra Fabiána XI ###
 - nohejbalový turnaj trojic
 - občerstvení zajištěno 
