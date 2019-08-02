@@ -62,6 +62,12 @@ Místo
 Kontakt
 : 602 713 891
 
+Prezence
+: 8:15 — 8:45
+
+Začátek
+: 9:00
+
 ---
 
 ### Švubův memoriál ###
