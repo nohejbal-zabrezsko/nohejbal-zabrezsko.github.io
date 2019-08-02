@@ -65,6 +65,37 @@ Přihlášky
 : buď  SMS, nebo telefonicky 774 378 378
 
 ---
+### Chromeč - denní turnaj ###
+
+Datum
+: 17\. 8\. 2019
+
+Začátek
+: 9:00
+
+Místo
+: Chromeč
+
+Web pořadatele
+: https://nohejbalchromec.webnode.cz
+
+---
+
+### Memoriál Z. Řeháka ###
+
+Datum
+: 31\. 8\. 2019
+
+Místo
+: Ruda nad Moravou
+
+Začátek
+: 8:30
+
+Web pořadatele
+: https://nohejbal-ruda.webnode.cz
+
+---
 
 ### Memoriál Petra Fabiána XI ###
 - nohejbalový turnaj trojic
