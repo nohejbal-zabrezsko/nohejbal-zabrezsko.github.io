@@ -22,7 +22,14 @@ Místo
 Kontakt
 : 602 713 891
 
+Prezence
+: 8:00 — 8:45
+
+Začátek
+: 9:00
+
 ---
+
 ## Přidání turnaje nebo úprava informací o turnajích
 
 Turnaj lze přidat pomocí Githubu viz [wiki](https://github.com/nohejbal-zabrezsko/nohejbal-zabrezsko.github.io/wiki/P%C5%99id%C3%A1n%C3%AD-nebo-%C3%BAprava-turnaje).
