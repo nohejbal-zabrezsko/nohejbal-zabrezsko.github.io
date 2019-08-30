@@ -18,7 +18,7 @@ Začátek
 : 8:30
 
 Web pořadatele
-: https://nohejbal-ruda.webnode.cz
+: [https://nohejbal-ruda.webnode.cz]
 
 ---
 
