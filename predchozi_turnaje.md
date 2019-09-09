@@ -133,6 +133,21 @@ Web pořadatele
 
 ---
 
+### Memoriál Z. Řeháka ###
+
+Datum
+: 31\. 8\. 2019
+
+Místo
+: Ruda nad Moravou
+
+Začátek
+: 8:30
+
+Web pořadatele
+: [Nohejbal-Ruda](https://nohejbal-ruda.webnode.cz)
+
+---
 
 ## Turnaje 2018 ##
 
