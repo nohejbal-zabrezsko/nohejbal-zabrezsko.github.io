@@ -2,16 +2,16 @@
 
 ---
 
-## Turnaje 2019 ##
+## Turnaje 2020 ##
 
 ---
 
-### Memoriál Petra Fabiána XI ###
+### Covid-íš ###
 - nohejbalový turnaj trojic
 - občerstvení zajištěno 
 
 Datum
-: 14\. 9\. 2019  (přesunuto ze 7\. 9\. 2019 z důvodu nepřízně počasí)
+: 6\. 6\. 2020 
 
 Pořádá
 : Nohejbalový klub Zábřeh
@@ -20,10 +20,13 @@ Místo
 : Městský stadion Zábřeh
 
 Kontakt
-: 602 713 891
+: 777 299 311, necom@centrum.cz
 
-Prezence
-: 8:00 — 8:45
+Startovné
+: 400 Kč za družstvo
+
+Registrace
+: 8:30
 
 Začátek
 : 9:00

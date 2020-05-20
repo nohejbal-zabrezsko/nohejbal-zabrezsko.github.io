@@ -149,6 +149,29 @@ Web pořadatele
 
 ---
 
+### Memoriál Petra Fabiána XI ###
+- nohejbalový turnaj trojic
+- občerstvení zajištěno 
+
+Datum
+: 14\. 9\. 2019  (přesunuto ze 7\. 9\. 2019 z důvodu nepřízně počasí)
+
+Pořádá
+: Nohejbalový klub Zábřeh
+
+Místo
+: Městský stadion Zábřeh
+
+Kontakt
+: 602 713 891
+
+Prezence
+: 8:00 — 8:45
+
+Začátek
+: 9:00
+
+
 ## Turnaje 2018 ##
 
 ---
