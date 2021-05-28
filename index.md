@@ -2,16 +2,16 @@
 
 ---
 
-## Turnaje 2020 ##
+## Turnaje 2021 ##
 
 ---
 
-### Covid-íš ###
+### Covid-íš 2. ročník ###
 - nohejbalový turnaj trojic
 - občerstvení zajištěno 
 
 Datum
-: 6\. 6\. 2020 
+: 12\. 6\. 2021 
 
 Pořádá
 : Nohejbalový klub Zábřeh
@@ -20,10 +20,10 @@ Místo
 : Městský stadion Zábřeh
 
 Kontakt
-: 777 299 311, necom@centrum.cz
+: necom@centrum.cz
 
 Startovné
-: 400 Kč za družstvo
+: 450 Kč 
 
 Registrace
 : 8:30
@@ -33,58 +33,6 @@ Začátek
 
 ---
 
-### Turnaj Krchleby ###
-- nohejbalový turnaj trojic
-- občerstvení zajištěno 
-
-Datum
-: 4\. 7\. 2020
-
-Místo
-: hřiště Krchleby
-
----
-
-### 3. ročník nohejbalového turnaje trojic pro neregistrované ###
-- nohejbalový turnaj trojic
-
-Datum
-: 8\. 8\. 2020
-
-Místo
-: Olomouc (Hodolany)
-
----
-
-### Švubův memoriál ###
-- nohejbalový turnaj trojic
-- občerstvení zajištěno 
-
-Datum
-: 15\. 8\. 2020
-
-Místo
-: hřiště Hněvkov
-
----
-
-### Memoriál Petra Fabiána XII ###
-- nohejbalový turnaj trojic
-- občerstvení zajištěno 
-
-Datum
-: 5\. 9\. 2020 
-
-Pořádá
-: Nohejbalový klub Zábřeh
-
-Místo
-: Městský stadion Zábřeh
-
-Kontakt
-: 602 713 891
-
----
 
 ## Přidání turnaje nebo úprava informací o turnajích
 
