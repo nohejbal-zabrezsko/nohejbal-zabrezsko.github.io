@@ -33,6 +33,30 @@ Začátek
 
 ---
 
+### Nohejbalový turnaj trojic
+
+Termín
+: 10\. 7\. 2021
+
+Kde
+: antukové kurty za sokolovnou Dubicko
+
+Registrace
+: 8:30
+
+Začátek
+: 9:00
+
+Startovné
+: 450 Kč / tým
+ 
+Přihlášky
+: tomas.stepan123@gmail.com / 605 278 570
+
+Pořádá
+: T.J. Sokol Dubicko — oddíl nohejbal 
+
+---
 
 ## Přidání turnaje nebo úprava informací o turnajích
 
