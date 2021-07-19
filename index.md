@@ -58,6 +58,29 @@ Pořádá
 
 ---
 
+### Nohejbalový turnaj trojic Nemile
+
+Termín
+: 24\. 7\. 2021
+
+Kde
+: hřiště Nemile
+
+---
+
+### Švubův memoriál ###
+- nohejbalový turnaj trojic
+- občerstvení zajištěno 
+
+Datum
+: 14\. 8\. 2020
+
+Místo
+: hřiště Hněvkov
+
+---
+
+
 ## Přidání turnaje nebo úprava informací o turnajích
 
 Turnaj lze přidat pomocí Githubu viz [wiki](https://github.com/nohejbal-zabrezsko/nohejbal-zabrezsko.github.io/wiki/P%C5%99id%C3%A1n%C3%AD-nebo-%C3%BAprava-turnaje).
