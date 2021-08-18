@@ -82,19 +82,26 @@ Místo
 
 ### Memoriál Petra Fabiána XIII ###
 - nohejbalový turnaj trojic
-- občerstvení zajištěno 
+- Hrají tříčlenná družstva dle platných pravidel.
+- Občerstvení zajištěno. 
 
 Datum
 : 4\. 9\. 2021 
 
-Pořádá
-: Nohejbalový klub Zábřeh
-
 Místo
-: Městský stadion Zábřeh
+: Antukové kurty Zábřeh stadion
 
-Kontakt
-: 602 713 891
+Startovné
+: 450 Kč na družstvo 
+
+Přihlášky
+: necom@centrum.cz (777 299 311) Pavel
+
+Registrace
+: 8:30
+
+Začátek 
+: 9:00
 
 ---
 
