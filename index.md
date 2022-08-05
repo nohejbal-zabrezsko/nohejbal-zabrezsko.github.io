@@ -2,69 +2,7 @@
 
 ---
 
-## Turnaje 2021 ##
-
----
-
-### Covid-íš 2. ročník ###
-- nohejbalový turnaj trojic
-- občerstvení zajištěno 
-
-Datum
-: 12\. 6\. 2021 
-
-Pořádá
-: Nohejbalový klub Zábřeh
-
-Místo
-: Městský stadion Zábřeh
-
-Kontakt
-: necom@centrum.cz
-
-Startovné
-: 450 Kč 
-
-Registrace
-: 8:30
-
-Začátek
-: 9:00
-
----
-
-### Nohejbalový turnaj trojic
-
-Termín
-: 10\. 7\. 2021
-
-Kde
-: antukové kurty za sokolovnou Dubicko
-
-Registrace
-: 8:30
-
-Začátek
-: 9:00
-
-Startovné
-: 450 Kč / tým
- 
-Přihlášky
-: tomas.stepan123@gmail.com / 605 278 570
-
-Pořádá
-: T.J. Sokol Dubicko — oddíl nohejbal 
-
----
-
-### Nohejbalový turnaj trojic Nemile
-
-Termín
-: 24\. 7\. 2021
-
-Kde
-: hřiště Nemile
+## Turnaje 2022 ##
 
 ---
 
@@ -73,7 +11,7 @@ Kde
 - občerstvení zajištěno 
 
 Datum
-: 14\. 8\. 2020
+: 13\. 8\. 2022
 
 Místo
 : hřiště Hněvkov
@@ -86,7 +24,7 @@ Místo
 - Občerstvení zajištěno. 
 
 Datum
-: 4\. 9\. 2021 
+: 27\. 8\. 2022 
 
 Místo
 : Antukové kurty Zábřeh stadion
@@ -95,7 +33,7 @@ Startovné
 : 450 Kč na družstvo 
 
 Přihlášky
-: necom@centrum.cz (777 299 311) Pavel
+: necom@centrum.cz (602 713 891) Jarda
 
 Registrace
 : 8:30
@@ -103,7 +41,6 @@ Registrace
 Začátek 
 : 9:00
 
----
 
 
 ## Přidání turnaje nebo úprava informací o turnajích
