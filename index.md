@@ -18,7 +18,7 @@ Místo
 
 ---
 
-### Memoriál Petra Fabiána XIII ###
+### Memoriál Petra Fabiána XIV ###
 - nohejbalový turnaj trojic
 - Hrají tříčlenná družstva dle platných pravidel.
 - Občerstvení zajištěno. 
