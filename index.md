@@ -2,38 +2,26 @@
 
 ---
 
-## Turnaje 2022 ##
+## Turnaje 2023 ##
 
 ---
 
-### Švubův memoriál ###
-- nohejbalový turnaj trojic
-- občerstvení zajištěno 
-
-Datum
-: 13\. 8\. 2022
-
-Místo
-: hřiště Hněvkov
-
----
-
-### Memoriál Petra Fabiána XIV ###
+### Memoriál Petra Fabiána XV ###
 - nohejbalový turnaj trojic
 - Hrají tříčlenná družstva dle platných pravidel.
 - Občerstvení zajištěno. 
 
 Datum
-: 27\. 8\. 2022 
+: 2\. 9\. 2023 
 
 Místo
-: Antukové kurty Zábřeh stadion
+: Antukové kurty Zábřeh stadion ( v případě deště hala Postřelmov )
 
 Startovné
 : 450 Kč na družstvo 
 
 Přihlášky
-: necom@centrum.cz (602 713 891) Jarda
+: ondrej.ada313@seznam.cz (702 178 956) 
 
 Registrace
 : 8:30
