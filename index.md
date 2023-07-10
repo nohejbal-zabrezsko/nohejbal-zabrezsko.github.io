@@ -29,6 +29,17 @@ Registrace
 Začátek 
 : 9:00
 
+---
+
+### Nohejbalový turnaj trojic Nemile
+
+Termín
+: 22\. 7\. 2023
+
+Kde
+: hřiště Nemile
+
+---
 
 
 ## Přidání turnaje nebo úprava informací o turnajích
