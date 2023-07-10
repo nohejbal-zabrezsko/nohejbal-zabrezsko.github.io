@@ -19,7 +19,7 @@ Místo
 
 Startovné
 : 450 Kč na družstvo 
-
+⊆
 Přihlášky
 : ondrej.ada313@seznam.cz (702 178 956) 
 
@@ -29,6 +29,18 @@ Registrace
 Začátek 
 : 9:00
 
+---
+
+
+### Nohejbalový turnaj trojic Nemile
+
+Termín
+: 22\. 7\. 2023
+
+Kde
+: hřiště Nemile
+
+---
 
 
 ## Přidání turnaje nebo úprava informací o turnajích
